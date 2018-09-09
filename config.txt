@@ -10,7 +10,7 @@ owner=290908670529896448
 prefix=.
 
 
-//game=#help
+game=.help | .inv
 
 
 status=DND
