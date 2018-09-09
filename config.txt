@@ -42,7 +42,7 @@ status=DND
 // For example, if you set the prefix to !! and the help to cmds, you would type
 // !!cmds to see the help text
 //
-//help=cmds
+help=help-music
 
 
 // If you set this, the "nowplaying" command will show youtube thumbnails
