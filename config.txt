@@ -7,10 +7,10 @@ token=NDY4NTE0MjczNDU5NTY4NjUy.Dna5gA.-z5hYHM-yR5q8DgHMscBDefF1P4
 owner=290908670529896448
 
 
-prefix=#
+prefix=.
 
 
-game=#help
+//game=#help
 
 
 status=DND
